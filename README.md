@@ -28,18 +28,6 @@ The development and execution of the classification pipeline are contained withi
 
 ---
 
-## Requirements & Setup
+## Notes
 
-To run the notebooks in this repository, ensure your environment has the required dependencies. 
-
-**Core Dependencies:**
-* `numpy`
-* `pandas`
-* `matplotlib`
-* `scipy`
-* `scikit-learn` (PCA, KNN, GaussianMixtures, LDA)
-* `hdbscan` (Density-based clustering)
-* `tables` / `pytables` (Required for reading `.h5` HDF5 files)
-
-**Usage Notes:**
 When adapting the `DAY2AnalysisFINAL.ipynb` pipeline for a new dataset, pay special attention to the `BIRD_PARAMS` dictionary in the Setup block. The distance fence multipliers (`pctile`, `mult`, `relaxed_frac`) must be tuned iteratively for specific subjects using the diagnostic outputs at the end of the notebook. Remember to change the file paths as well.
