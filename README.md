@@ -8,6 +8,7 @@ This project focuses on tracking day-over-day structural and proportional shifts
 Detailed overviews of the methodology, progress, and findings throughout the academic year:
 * **[Fall 2025 Presentation](https://docs.google.com/presentation/d/14s5xW7QCCVfc-qabbiSgQt082fPBMSqixBlAzVfwyuI/edit?usp=sharing)**
 * **[Spring 2026 Presentation](https://docs.google.com/presentation/d/1rD0VuWIoYquHEYsU9aKseATSwKqPg13rO-QcozErnj4/edit?usp=sharing)**
+* **[Lucidchart Results (login required)](https://lucid.app/lucidchart/6800ce7c-1a66-4526-9ce9-d7513ddcc959/edit?viewport_loc=9273%2C-4021%2C44009%2C24891%2C0_0&invitationId=inv_da7ed266-e5c2-41b6-8a22-868ae6ab95b7)
 
 ---
 
